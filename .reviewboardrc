@@ -1,5 +1,5 @@
 REVIEWBOARD_URL = "http://localhost:8081"
-REPOSITORY = "GitHub Review Repo"
+REPOSITORY = "reviewboard-second"
 REPOSITORY_TYPE = "git"
 BRANCH = "master"
 LAND_DEST_BRANCH = "master"
